@@ -1,0 +1,1 @@
+# MACD-Only-Strategy
